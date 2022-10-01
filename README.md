@@ -11,7 +11,7 @@ step 2: test.py
 -- Building the model using sklearn nearest neighbour module-----using euclidean distance to calculate the distance between test image and training images
 
 step 3: main.py
--- streamlit library is used to deploy the model
+-- streamlit library is used to make the app
 
 
 ## Links for the app
