@@ -19,11 +19,10 @@ step 3: main.py
 Local URL: http://localhost:8501
 
 
-Network URL: http://192.168.106.244:8501
+
 
 # Screenshots of deployed app on streamlit
 
 ![image](https://user-images.githubusercontent.com/97076224/193409348-9718e4b8-d71c-4875-9b52-8cf414e5fb25.png)
 
 
-![image](https://user-images.githubusercontent.com/97076224/193408970-8102661b-d625-4839-a277-79a16b2b99de.png)
