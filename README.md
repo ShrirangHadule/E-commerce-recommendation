@@ -23,6 +23,4 @@ Local URL: http://localhost:8501
 
 # Screenshots of deployed app on streamlit
 
-![image](https://user-images.githubusercontent.com/97076224/193409348-9718e4b8-d71c-4875-9b52-8cf414e5fb25.png)
-
-
+![image](https://user-images.githubusercontent.com/97076224/193743292-aed740f3-5afa-4a14-a278-f8f16e77dd3f.png)
