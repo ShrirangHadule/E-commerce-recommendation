@@ -16,11 +16,10 @@ step 3: main.py
 
 ## Links for the app
 
-Local URL: http://localhost:8501
 
 
 
 
-# Screenshots of deployed app on streamlit
+# Screenshots of deployed app using streamlit
 
 ![image](https://user-images.githubusercontent.com/97076224/193743292-aed740f3-5afa-4a14-a278-f8f16e77dd3f.png)
