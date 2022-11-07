@@ -5,7 +5,7 @@ A Deep Learning based Fashion Recommender System using the transfer learning
 # Way to use provided files in order to create your own model and app
 
 step 1: app.py
--- Extraxts the feature from images and stores into pickle file
+-- Extracts the feature from images and stores into pickle file
 
 step 2: test.py
 -- Building the model using sklearn nearest neighbour module-----using euclidean distance to calculate the distance between test image and training images
